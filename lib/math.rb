@@ -19,10 +19,8 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  sqrt(num)
+  Math.sqrt(num)
 end
 
 def order_of_operation(num1, num2, num3, num4)
-9 + ((6 * 2) / 3)
-  #Hint:  __ + (( __ * __ ) / __ )
-end
+  9 + ((6 * 2) / 3)
